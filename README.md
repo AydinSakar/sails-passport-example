@@ -3,10 +3,10 @@ a Sails example application based on https://gist.github.com/theangryangel/50604
 
 ## Using this
 
-   git clone https://github.com/webjames/sails-passport-example.git
-   cd sails-passport-example
-   npm install
-   sails lift
+    git clone https://github.com/webjames/sails-passport-example.git
+    cd sails-passport-example
+    npm install
+    sails lift
 
 Visit
 
