@@ -10,6 +10,9 @@ a Sails example application based on https://gist.github.com/theangryangel/50604
 
 Visit
 
-   http://localhost:1337
+    http://localhost:1337
 
-You should not be able to list,create http://localhost:1337/user/ unless logged in. 
+You should not be able to list, create http://localhost:1337/user/ unless logged in. You can log in with the supplied credentials:
+
+    Username: bob
+    Password: secret
